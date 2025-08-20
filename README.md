@@ -1,1 +1,2 @@
-# Assessing-Sampling-Distribution-of-BOLD-Database
+# Assessing Sampling Distribution of BOLD Database
+The Barcode of Life Data System (BOLD) uses the mitochondrial COI gene as a “barcode” to identify species, providing a more reliable method than physical traits. This project examines sampling completeness in Gastrotricha, microscopic freshwater and marine invertebrates. The script highlights key quality control steps when working with new datasets and emphasizes the importance of checking sampling distributions.
